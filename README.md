@@ -16,7 +16,7 @@ Computer Science Student | Data Analyst | Python Developer | AI & Computer Visio
 
 # 💫 About Me
 
-🎓 B.Tech – Computer Science & Software Engineering (CSSE)
+🎓 B.Tech – Computer Science & System Engineering (CSSE)
 
 🏫 REVA University, Bangalore
 
@@ -68,9 +68,6 @@ Computer Science Student | Data Analyst | Python Developer | AI & Computer Visio
 
 📈 Amazon Sales Analysis Dashboard
 
-🛒 Smart Store Crowd Analysis
-
-📊 Data Analytics using Python & Power BI
 
 ---
 
