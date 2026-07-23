@@ -79,12 +79,11 @@ Computer Science Student | Data Analyst | Python Developer | AI & Computer Visio
 
 ---
 
-# 🏆 GitHub Trophies
+## 🐍 Contribution Graph
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Santhosh-271121&theme=algolia&row=1&column=6"/>
+<img src="https://raw.githubusercontent.com/Santhosh-271121/Santhosh-271121/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation">
 </p>
-
 ---
 
 # 🌐 Connect With Me
