@@ -16,7 +16,7 @@ Data Analyst | Python Developer | AI & Computer Vision Enthusiast
 
 # 💫 About Me
 
-🎓 B.Tech Computer Science & Software Engineering (CSSE)
+🎓 B.Tech Computer Science & System Engineering (CSSE)
 
 🏫 REVA University
 
@@ -138,16 +138,6 @@ Interactive Power BI Dashboard for Sales, Profit, Revenue and Customer Insights.
 Real-Time Pedestrian Detection using YOLOv8, OpenCV and Flask.
 
 ---
-
-### 🛒 Smart Store Crowd Analysis System
-
-Computer Vision based Store Crowd Monitoring using Python & OpenCV.
-
----
-
-### 📈 Data Analytics Projects
-
-Python • SQL • Excel • Power BI
 
 ---
 
