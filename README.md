@@ -71,7 +71,7 @@
 
 ## 📫 Connect with Me
 
-- 📧 Email: your-email@gmail.com
+- 📧 Email: santhoshsanthosh2292@gmail.com
 - 💼 LinkedIn: https://linkedin.com/in/santhosh-c-19a766335
 
 ---
