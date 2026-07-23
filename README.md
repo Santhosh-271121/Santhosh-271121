@@ -1,30 +1,34 @@
 <h1 align="center">Hi 👋, I'm Santhosh C</h1>
 
 <h3 align="center">
-Computer Science Student | Data Analyst | Python Developer | AI & Computer Vision Enthusiast
+Data Analyst | Python Developer | AI & Computer Vision Enthusiast
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub+Profile!;Computer+Science+Student;Data+Analyst;Python+Developer;Power+BI+%7C+SQL+%7C+Python;Machine+Learning+Enthusiast;Computer+Vision+Projects;Open+to+Internship+Opportunities" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=00CFFF&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub!;Computer+Science+Student;Data+Analyst;Python+Developer;Power+BI+%7C+SQL+%7C+Python;Machine+Learning+Enthusiast;AI+%26+Computer+Vision;Open+to+Internship+Opportunities" />
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=Santhosh-271121&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=Santhosh-271121&label=Profile+Views&style=for-the-badge&color=blue"/>
 </p>
 
 ---
 
 # 💫 About Me
 
-🎓 B.Tech – Computer Science & System Engineering (CSSE)
+🎓 B.Tech Computer Science & Software Engineering (CSSE)
 
-🏫 REVA University, Bangalore
+🏫 REVA University
 
 📊 Passionate about Data Analytics & Business Intelligence
 
-🤖 Exploring AI, Machine Learning & Computer Vision
+🤖 Exploring Artificial Intelligence & Machine Learning
 
-💻 Building real-world Python Projects
+🐍 Building Python Applications & Automation
+
+📈 Creating Interactive Power BI Dashboards
+
+💡 Interested in solving real-world business problems using data
 
 🚀 Open to Internship Opportunities
 
@@ -32,61 +36,148 @@ Computer Science Student | Data Analyst | Python Developer | AI & Computer Visio
 
 # 🚀 Tech Stack
 
-### Programming
+## 💻 Programming Languages
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<p>
 
-### Data Analytics
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
 
-### AI / ML
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv)
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 
-### Tools
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+</p>
 
 ---
 
-# 📌 Featured Projects
+## 📊 Data Analytics
 
-🚗 AI Pedestrian Detection
+<p>
 
-📈 Amazon Sales Analysis Dashboard
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
+
+</p>
+
+---
+
+## 🤖 AI & Machine Learning
+
+<p>
+
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv"/>
+
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask"/>
+
+<img src="https://img.shields.io/badge/YOLOv8-FF6F00?style=for-the-badge"/>
+
+</p>
+
+---
+
+## 🛠 Tools
+
+<p>
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+
+</p>
+
+---
+
+# 📈 Data Analysis Workflow
+
+```text
+📥 Data Collection
+        │
+        ▼
+🧹 Data Cleaning
+        │
+        ▼
+📊 Data Analysis
+        │
+        ▼
+📈 Data Visualization
+        │
+        ▼
+📑 Business Insights
+        │
+        ▼
+✅ Decision Making
+```
+
+---
+
+# 🚀 Featured Projects
+
+### 📊 Amazon Sales Analysis Dashboard
+
+Interactive Power BI Dashboard for Sales, Profit, Revenue and Customer Insights.
+
+---
+
+### 🚶 AI-Based Pedestrian Safety System
+
+Real-Time Pedestrian Detection using YOLOv8, OpenCV and Flask.
+
+---
+
+### 🛒 Smart Store Crowd Analysis System
+
+Computer Vision based Store Crowd Monitoring using Python & OpenCV.
+
+---
+
+### 📈 Data Analytics Projects
+
+Python • SQL • Excel • Power BI
+
+---
+
+# 🌱 Currently Learning
+
+- Machine Learning
+- Deep Learning
+- Advanced SQL
+- Statistics
+- Data Engineering
+
+---
+
+# 🎯 Career Goal
+
+Become a Data Analyst and build AI-powered business solutions using Python, SQL, Power BI, and Machine Learning.
 
 ---
 
 # 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=Santhosh-271121&theme=tokyonight&hide_border=true"/>
+
+<img src="https://streak-stats.demolab.com?user=Santhosh-271121&theme=github-dark&hide_border=true"/>
+
 </p>
 
 ---
 
-## 🐍 Contribution Graph
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/Santhosh-271121/Santhosh-271121/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation">
-</p>
----
-
-# 🌐 Connect With Me
+# 📫 Connect With Me
 
 <p align="center">
 
@@ -106,10 +197,12 @@ Computer Science Student | Data Analyst | Python Developer | AI & Computer Visio
 
 ---
 
-<p align="center">
+# 💡 Quote
 
-## ⭐ Thanks for visiting my profile!
+> **"Turning Data into Insights and Ideas into Intelligent Solutions."**
 
-### "Transforming Data into Insights, and Ideas into Intelligent Solutions."
+---
 
-</p>
+<h3 align="center">
+⭐ Thanks for visiting my GitHub Profile ⭐
+</h3>
