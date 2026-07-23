@@ -66,19 +66,15 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Santhosh-271121&show_icons=true&theme=github_dark"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Santhosh-271121&layout=compact&theme=github_dark"/>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=Santhosh-271121&show_icons=true&theme=github_dark&cache_seconds=1800" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Santhosh-271121&layout=compact&theme=github_dark&cache_seconds=1800" />
 </p>
-
----
 
 ## 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=Santhosh-271121&theme=github-dark"/>
+  <img src="https://streak-stats.demolab.com?user=Santhosh-271121&theme=github-dark" />
 </p>
 
 ---
