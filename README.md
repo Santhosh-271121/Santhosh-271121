@@ -127,11 +127,16 @@ Data Analyst | Python Developer | AI & Computer Vision Enthusiast
 
 # 🚀 Featured Projects
 
+# 🚀 Featured Projects
+
 ### 📊 Amazon Sales Analysis Dashboard
 
-Interactive Power BI Dashboard for Sales, Profit, Revenue and Customer Insights.
+An interactive Power BI dashboard developed using **Power BI, Python, SQL, and Excel** to analyze Amazon sales performance, customer behavior, revenue trends, and product insights through dynamic visualizations and KPIs.
+
+**Tech Stack:** Power BI • Python • SQL • Excel
 
 ---
+
 ### ⚡ EV Market Intelligence Dashboard
 
 A comprehensive Power BI dashboard built to analyze **Electric Vehicle registrations, manufacturer performance, vehicle types, state-wise adoption, and CAFV eligibility** using interactive visualizations and business intelligence techniques.
@@ -146,10 +151,13 @@ A comprehensive Power BI dashboard built to analyze **Electric Vehicle registrat
 
 **Tech Stack:** Power BI • Power Query • DAX • CSV
 
+---
+
 ### 🚶 AI-Based Pedestrian Safety System
 
-Real-Time Pedestrian Detection using YOLOv8, OpenCV and Flask.
+An AI-powered pedestrian safety solution using **YOLOv8, OpenCV, and Flask** for real-time pedestrian detection and smart road safety monitoring.
 
+**Tech Stack:** Python • YOLOv8 • OpenCV • Flask
 ---
 
 ---
