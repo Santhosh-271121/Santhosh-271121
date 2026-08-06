@@ -132,6 +132,19 @@ Data Analyst | Python Developer | AI & Computer Vision Enthusiast
 Interactive Power BI Dashboard for Sales, Profit, Revenue and Customer Insights.
 
 ---
+### ⚡ EV Market Intelligence Dashboard
+
+A comprehensive Power BI dashboard built to analyze **Electric Vehicle registrations, manufacturer performance, vehicle types, state-wise adoption, and CAFV eligibility** using interactive visualizations and business intelligence techniques.
+
+**Highlights**
+- EV Growth Trend Analysis
+- BEV vs PHEV Distribution
+- Top EV Manufacturers
+- State-wise EV Adoption
+- CAFV Eligibility Analysis
+- Interactive Filters & KPI Cards
+
+**Tech Stack:** Power BI • Power Query • DAX • CSV
 
 ### 🚶 AI-Based Pedestrian Safety System
 
